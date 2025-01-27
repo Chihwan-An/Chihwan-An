@@ -8,8 +8,8 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;">
-        <img src="https://www.belle2.org/common/logo.png" alt="Belle II Logo" style="height: 40px;"> 
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhPK6aVeECvkhQT0wovHg294CAZg7tMsNX9g&s" alt="Icon" style="height: 40px;">
+        <img src="https://www.belle2.org/common/logo.png" alt="Belle II Logo" style="height: 50px;"> 
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhPK6aVeECvkhQT0wovHg294CAZg7tMsNX9g&s" alt="Icon" style="height: 50px;">
         <br/>
         <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
         <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
