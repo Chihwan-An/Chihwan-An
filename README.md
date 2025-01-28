@@ -1,9 +1,36 @@
-<div align= "center">
+<div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Chihwan's%20Github&animation=twinkling&fontColor=ffffff&fontSize=60" />
 </div>
-<div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Welcome! </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> Github for High energy physics!</li> </div> 
+
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Welcome to My GitHub! </h2>
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
+        A space dedicated to High Energy Physics research and development.
+    </div>
+    <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Career Timeline </h3>
+    <ul style="list-style-type: none; padding-left: 0;">
+        <li style="font-weight: 700; font-size: 15px; color: #c9d1d9;">
+            🎓 <strong>B.Sc. in Physics</strong> | Soongsil University (SSU) | Mar 2019 - Feb 2025
+        </li>
+        <li style="font-weight: 700; font-size: 15px; color: #c9d1d9;">
+            🔬 <strong>Belle II Collaboration Intern</strong> | Soongsil University | Feb 2023 - Feb 2025
+            <ul style="list-style-type: disc; padding-left: 20px;">
+                <li>Conducted research on particle physics and data analysis within the Belle II experiment.</li>
+            </ul>
+        </li>
+        <li style="font-weight: 700; font-size: 15px; color: #c9d1d9;">
+            🔬 <strong>CMS Collaboration Intern</strong> | Seoul National University (SNU) | Sep 2024 - Jan 2025
+            <ul style="list-style-type: disc; padding-left: 20px;">
+                <li>Engaged in research activities related to the Compact Muon Solenoid (CMS) experiment at CERN.</li>
+            </ul>
+        </li>
+        <li style="font-weight: 700; font-size: 15px; color: #c9d1d9;">
+            🚀 <strong>M.S./Ph.D. Integrated Program</strong> | Seoul National University (SNU) | Mar 2025 - Ongoing
+            <ul style="list-style-type: disc; padding-left: 20px;">
+                <li>Pursuing advanced studies in High Energy Physics with a focus on experimental particle physics.</li>
+            </ul>
+        </li>
+    </ul>
 </div>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
