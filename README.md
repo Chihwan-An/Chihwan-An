@@ -72,4 +72,45 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chihwan-An&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
-<img src="https://github.com/Chihwan-An/Chihwan-An/blob/output/github-snake-dark.svg" width="100%">
+
+
+## 📝 High Energy Physics Paper Approval Process  
+
+### 1️⃣ Data Collection (Data Taking)  
+- 🔬 <strong>Experimental Data Acquisition</strong> | LHC Run 3 and Beyond  
+- 📡 <strong>Data Processing Pipeline</strong>  
+  - RAW → RECO → AOD → NanoAOD  <span style="color:yellow; font-weight: bold;">&nbsp;&nbsp;&nbsp;&nbsp;⬅ I'm in here!</span>  
+  - Data Quality Monitoring & Calibration  
+
+### 2️⃣ Data Analysis Phase  
+- 📊 **Event Selection** | Optimized Selection Criteria  
+- 🔎 **Background Estimation** | Data-driven & MC-based techniques  
+- 🧬 **MC Simulation & Corrections** | K-factors, Scale Uncertainties  
+- 📉 **Systematic Uncertainties Evaluation** | Theory & Experimental  
+- 🎯 **Final Results** | Signal Extraction & Limit Setting  
+
+### 3️⃣ Internal Review & Approval  
+#### 🟡 Preapproval Stage (PAG Review)  
+- 📌 Internal Review by Analysis Team  
+- 📝 Presentation to PAG (Physics Analysis Group)  
+- 🔎 Reviewed by IRC (Internal Review Committee)  
+- 📌 Feedback Incorporated & Updated Analysis  
+
+#### 🔵 Official Approval (Collaboration Level)  
+- 📌 Final Review by Analysis Review Committee (ARC)  
+- 📜 Official Analysis Note (AN) Finalized  
+
+### 4️⃣ Paper Drafting & Approval  
+#### 📝 Paper Drafting  
+- ✍️ Drafting by Paper Committee  
+- 🔍 Internal Review by Editorial Board  
+- 🔎 Collaboration-wide Paper Review (PRC)  
+
+#### 🟢 Final Paper Approval & Public Release  
+- 🛠 Collaboration-wide Final Approval  
+- 📢 Public Release & Conference Presentation  
+
+### 5️⃣ Paper Submission & Publication  
+- 📡 **arXiv Preprint Release**  
+- 📚 **Journal Submission** | PRL, JHEP, EPJC, etc.  
+- 🎤 **Conference Talks & CERN Seminar**  
