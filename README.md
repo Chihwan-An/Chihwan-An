@@ -77,9 +77,10 @@
 ## 📝 High Energy Physics Paper Approval Process  
 
 ### 1️⃣ Data Collection (Data Taking)  
-- 🔬 <strong>Experimental Data Acquisition</strong> | LHC Run 3 and Beyond  
-- 📡 <strong>Data Processing Pipeline</strong>  
-  - RAW → RECO → AOD → NanoAOD  <span style="color:yellow; font-weight: bold;">&nbsp;&nbsp;&nbsp;&nbsp;⬅ I'm in here!</span>  
+- 🔬 **Experimental Data Acquisition** | LHC Run 3 and Beyond  
+- 📡 **Data Processing Pipeline**  
+  - RAW → RECO → AOD → NanoAOD  
+    🔥 I'm in here!</span>  
   - Data Quality Monitoring & Calibration  
 
 ### 2️⃣ Data Analysis Phase  
