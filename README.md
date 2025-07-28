@@ -78,12 +78,12 @@
 - 🔬 **Experimental Data Acquisition** | LHC Run 3 and Beyond  
 - 📡 **Data Processing Pipeline**  
   - RAW → RECO → AOD → NanoAOD  
-    🔥 I'm in here!</span>  
   - Data Quality Monitoring & Calibration  
 
 ### 2️⃣ Data Analysis Phase  
 - 📊 **Event Selection** | Optimized Selection Criteria  
-- 🔎 **Background Estimation** | Data-driven & MC-based techniques  
+- 🔎 **Background Estimation** | Data-driven & MC-based techniques
+- 🔥 I'm in here!</span>  
 - 🧬 **MC Simulation & Corrections** | K-factors, Scale Uncertainties  
 - 📉 **Systematic Uncertainties Evaluation** | Theory & Experimental  
 - 🎯 **Final Results** | Signal Extraction & Limit Setting  
